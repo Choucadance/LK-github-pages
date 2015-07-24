@@ -133,3 +133,12 @@ body{
 	font-size: 20px;
 	margin-bottom: 1em;
 }
+
+.vertical-spacer {
+	background-color : black;
+	height : 100px;
+	background-size: cover;
+	font-size : 15px;
+	margin-bottom: 1em;
+	color:#aaaaaa;
+}
