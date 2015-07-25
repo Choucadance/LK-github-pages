@@ -1,5 +1,5 @@
 body{
-	background-color : #FFF3BE;
+	background-color : white;
 	font-family: "Open Sans";
 }
 
@@ -111,7 +111,7 @@ body{
 
 #footer {
 	background-color : black;
-	height : 200px;
+	height : 150px;
 	background-size: cover;
 }
 
@@ -142,3 +142,9 @@ body{
 	margin-bottom: 1em;
 	color:#aaaaaa;
 }
+
+#contact{
+	margin-top: 3em;
+	margin-bottom: 6em;
+}
+
